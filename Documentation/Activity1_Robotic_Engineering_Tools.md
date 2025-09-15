@@ -115,15 +115,15 @@ For that purpose, you will make a project to pick a cube from the table with a 2
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
 
-**Activity Student1:** Name?
+**Activity Student1:** Clara Lentisco Vernet
 
-| ![](./Images/code.png) | ![](./Images/pick.png) |
+| ![](./Images/sync_clara.png) | ![](./Images/pick_clara.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
-**Activity Student 2:** Name?
+**Activity Student 2:** Aziz Ouhida Ben Romdhane
 
-| ![](./Images/code.png) | ![](./Images/pick.png) |
+| ![](./Images/sync_aziz.png) | ![](./Images/pick_aziz.png) |
 |:----------------------------:|:--------------------------------------:|
 | *a) VScode*                 | *b) roboDK Pick cube*                 |
 
