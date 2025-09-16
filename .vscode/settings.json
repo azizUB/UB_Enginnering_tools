@@ -1,7 +1,7 @@
 {
   "python.defaultInterpreterPath": "C:\\Users\\clent\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
   "terminal.integrated.env.windows": {
-    "PATH": "C:\\Users\\clent\\AppData\\Local\\Programs\\Python\\Python310\\python.exe;${env:PATH}"
+    "PATH": "C:\\Users\\azouh\\AppData\\Local\\Programs\\Python\\Python310\\python.exe;${env:PATH}"
   },
   "python-envs.defaultEnvManager": "ms-python.python:system",
   "python-envs.pythonProjects": []
